@@ -56,9 +56,8 @@ $mysqli = new mysqli ("127.0.0.1:3306","root","1234","agenda");
             <option value="Tenares">Tenares</option>
             <option value="Salcedo">Salcedo</option>
             <option value="San Francisco">San Francisco</option>
-			<option value="San Francisco">Moca</option>
-			<option value="San Francisco">Santiago</option>
-
+	    <option value="Moca">Moca</option>
+	    <option value="Santiago">Santiago</option>
         </select>
     </div>
     <br>
