@@ -2,8 +2,6 @@
 
 $mysqli = new mysqli ("127.0.0.1:3306","root","1234","agenda");
 
-
-	
 	if ($mysqli->connect_errno) {
     echo "Falló la conexión con MySQL";
 	}
